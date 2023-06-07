@@ -8,7 +8,7 @@ public class ReplaceApp {
         String title="Coding Factory";
         String dashedTitle;
 
-        dashedTitle = title.replace(" "," ");
+        dashedTitle = title.replace("C","B");
         System.out.println(dashedTitle);
     }
 }
